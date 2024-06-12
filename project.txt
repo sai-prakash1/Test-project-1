@@ -1,6 +1,7 @@
-This is a python project.
+This is a python and ai project.
 
 adding 1st line.
 
 adding 2nd line.
 
+adding 3rd line.
